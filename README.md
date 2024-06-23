@@ -3,5 +3,5 @@
 ## Description
 - Some simple Prolog problems.
 
-## Final Note
+## Grade
 - 19 / 20
